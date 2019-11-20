@@ -1,0 +1,11 @@
+html{
+    font-size: 62.5%;
+    padding: .5rem;
+    margin: .5rem;
+    box-sizing: border-box;
+}
+h1{
+    font-style: oblique;
+    text-transform: uppercase;
+    text-align: center;
+}
